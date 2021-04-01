@@ -1,6 +1,6 @@
 # MarginSwap Contest
-- Starts Thu Apr 1 00:00 UTC
-- Ends Wed Apr 7 23:59 UTC
+- Starts Apr 2 00:00 UTC
+- Ends Apr 7 23:59 UTC
 
 This repo will be made public before the start of the contest.
 
