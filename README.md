@@ -1,6 +1,9 @@
 # MarginSwap Contest
-- 40k main award pot
-- 10k gas optimization award pot
+- $40k USDC main award pot
+- $10k USDC gas optimization award pot
+- Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
+- Submit findings [using the C4 form](https://c4-marginswap.netlify.app/)
+- Read [https://code423n4.com/compete](our guidelines for more details)
 - Starts Apr 2 00:00 UTC
 - Ends Apr 7 23:59 UTC
 
