@@ -23,3 +23,5 @@ In the interest of time, so you can focus on the most important aspects of the p
 * `Isolated*.sol`: These contracts mirror the cross margin trading contracts closely, but are significantly simpler. Checking these first may be a good way to get the lay of the land before diving into cross margin. Note that there will be one contract per short/long choice. Isolated margin trading is not yet integrated with the `MarginRouter`. Liquidity failures in isolated margin should not affect the rest of the system.
 * `Fund.sol` holds the money.
 * `Roles.sol` provides loose coupling of the main contracts in the protocol providing some measure of upgradability.
+
+If you're curious you can look at the entirety of our contracts [here](https://github.com/marginswap/marginswap-core).
