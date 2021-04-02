@@ -1,4 +1,6 @@
 # MarginSwap Contest
+- 40k main award pot
+- 10k gas optimization award pot
 - Starts Apr 2 00:00 UTC
 - Ends Apr 7 23:59 UTC
 
